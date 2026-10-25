@@ -1,0 +1,26 @@
+# Python
+**/.venv/
+**/__pycache__/
+**/*.pyc
+**/.pytest_cache/
+**/securities.db
+**/*.db-journal
+**/.env
+
+# Flutter
+**/.dart_tool/
+**/build/
+**/.flutter-plugins*
+**/.gradle/
+**/local.properties
+**/android/key.properties
+**/*.jks
+**/*.keystore
+
+# IDE
+**/.idea/
+**/*.iml
+
+# System
+Thumbs.db
+.DS_Store
